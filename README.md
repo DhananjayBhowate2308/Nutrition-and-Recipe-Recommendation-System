@@ -1,1 +1,1 @@
-# Nutrition and Recipe Recommendations System
+# Nutrition and Recipe Recommendation System
